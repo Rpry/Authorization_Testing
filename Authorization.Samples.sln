@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorization.Samples", "src\Authorization.Samples.csproj", "{94FE5D5F-2A72-4F00-AD7F-0789C12FC283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorization.Tests", "tests\Authorization.Tests.csproj", "{24D83066-C4ED-4646-9126-BB5B2BBDC2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94FE5D5F-2A72-4F00-AD7F-0789C12FC283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FE5D5F-2A72-4F00-AD7F-0789C12FC283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FE5D5F-2A72-4F00-AD7F-0789C12FC283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FE5D5F-2A72-4F00-AD7F-0789C12FC283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D83066-C4ED-4646-9126-BB5B2BBDC2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D83066-C4ED-4646-9126-BB5B2BBDC2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D83066-C4ED-4646-9126-BB5B2BBDC2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D83066-C4ED-4646-9126-BB5B2BBDC2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
